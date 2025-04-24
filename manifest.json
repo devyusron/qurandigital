@@ -2,7 +2,7 @@
   "name": "Quran Digital",
   "short_name": "Quran",
   "description": "Aplikasi web Quran digital.",
-  "start_url": "/",
+  "start_url": "/qurandigital/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
